@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 #include <thread>
-#include <highgui.hpp> //a lot of shit
+#include <highgui.hpp> 
 #include <imgproc.hpp> //for resize()
 
 
